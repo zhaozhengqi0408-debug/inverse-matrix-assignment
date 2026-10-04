@@ -1,7 +1,6 @@
-"""이산수학: 행렬식과 가우스-조던 소거법으로 역행렬 구하기."""
 from math import isfinite
 
-EPS = 1e-10  # 0922 수업자료의 0 판정 기준
+EPS = 1e-10
 
 
 def read_matrix():
